@@ -1,6 +1,6 @@
 {
     "title": "namkora - Coming Soon",
-    "name": "startbootstrap-coming-soon",
+    "name": "namkora-coming-soon",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -16,8 +16,8 @@
     ],
     "homepage": "https://namkora.com/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-coming-soon/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/namkora/namkora-coming-soon/issues",
+        "email": "contact@namkora.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-coming-soon.git"
+        "url": "https://github.com/namkora/namkora-coming-soon.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.13.0",
