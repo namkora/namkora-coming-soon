@@ -1,5 +1,5 @@
 {
-    "title": "Coming Soon",
+    "title": "namkora - Coming Soon",
     "name": "startbootstrap-coming-soon",
     "version": "5.0.8",
     "scripts": {
@@ -14,7 +14,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/coming-soon",
+    "homepage": "https://namkora.com/",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-coming-soon/issues",
         "email": "feedback@startbootstrap.com"
